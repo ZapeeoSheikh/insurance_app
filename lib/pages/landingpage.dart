@@ -4,6 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:n_app/Ui%20Kit/ui.dart';
 import 'package:n_app/pages/signup.dart';
 
+import '../Ui Kit/ui.dart';
+
 class LandingPage extends StatefulWidget {
   const LandingPage({Key? key}) : super(key: key);
 

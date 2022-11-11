@@ -1,3 +1,4 @@
+
 name: n_app
 description: A new Flutter project.
 
@@ -37,7 +38,16 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   google_fonts:
+  http:
+  otp_text_field:
+  flutter_spinkit:
+  bottom_navy_bar:
+  salomon_bottom_bar: ^3.3.1
+  carousel_slider:
+  flutter_credit_card: ^3.0.4
   dropdown_textfield: ^1.0.6
+#  credit_card: ^0.1.8
+
 
 dev_dependencies:
   flutter_test:
@@ -66,7 +76,6 @@ flutter:
     - images/
     - images/vector/
     - images/icons/
-
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
